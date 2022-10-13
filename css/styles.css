@@ -7,3 +7,17 @@
 .Aboutme {
   color: crimson;
 }
+.blog {
+  width: 50%;
+  border: solid black;
+  border-width: 3px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+.blog2 {
+  width: 50%;
+  border: solid black;
+  border-width: 3px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
